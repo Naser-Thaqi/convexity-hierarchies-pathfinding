@@ -38,7 +38,7 @@ This explains the structure of the folders and files, and how to run the code.
 - **`graph/`**:
   - `graph.go`: Own implementation of a graph class (structure) and helper methods
 
-- **`graphdecomp/`**: Every file has its own name_test.go file
+- **`graphdecomp/`**: Core graph decomposition logic ,Every file has its own name_test.go file
   - `balanced.go`
   - `convexity.go`
   - `balancedconvexdecomp.go`
