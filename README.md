@@ -56,10 +56,10 @@ This explains the structure of the folders and files, and how to run the code.
 Ensure you have Go installed on your system.
 Ensure you have KaFFPa installed and the path is configured in config/config.go
 Ensure you have choosen the correct alpha in config if you want to change the value
-
 For benchmarks you need https://www.movingai.com/benchmarks/formats.html for map and scen files.
 In map/ and scen/ every "benchmark" folder needs  "-scen" or "-map" to their name.
 map files end with ".map" and scen files with ".map.scen"
+
 ---
 
 # How to Run
